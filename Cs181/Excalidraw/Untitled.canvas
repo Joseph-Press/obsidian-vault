@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5f39d036159a316d","x":-160,"y":0,"width":160,"height":60,"type":"text","text":"computational device"},
+		{"id":"13fe39f5bdc5ab4d","x":-300,"y":0,"width":100,"height":60,"type":"text","text":"theory"},
+		{"id":"41cadd4974e58e42","x":39,"y":1,"width":121,"height":60,"type":"text","text":"accept\n"}
+	],
+	"edges":[
+		{"id":"e28d78bf25f049f6","fromNode":"13fe39f5bdc5ab4d","fromSide":"right","toNode":"5f39d036159a316d","toSide":"left"},
+		{"id":"d80e91f3f2529c5c","fromNode":"5f39d036159a316d","fromSide":"right","toNode":"41cadd4974e58e42","toSide":"left"}
+	]
+}
