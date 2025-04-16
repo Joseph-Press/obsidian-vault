@@ -61,3 +61,7 @@ reg langs whenver  r1 r1, r2 regular
 - (R1∘R2)
 - `(R^*)`
 
+
+thm the lang of every NFA can be rep'd by a RF 
+
+Pf given NFA 
