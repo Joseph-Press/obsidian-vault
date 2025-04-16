@@ -35,3 +35,27 @@ precedence, `*` ∘ ∪
 
 ![[IMG_9981.jpg]]
 
+![[IMG_9982.jpg]]
+
+ex (0 ∪ ε) `1^*` = `01^* ∪ 1^*`
+
+`1* ∅`=  ∅
+
+ ∅* = ε
+
+(0  ∪ ε)(1 ∪ ε) = ε ∪ Σ ∪∘1
+
+## 5.2 equivalence with automata
+
+thm the lanaugage of every RE is regular 
+
+Pf 
+
+- ∅ 
+- {ε}
+- {J} - not sure it's a j 
+- 
+- (R1, ∪ R2)
+- (R1∘R2)
+- `(R^*)`
+
