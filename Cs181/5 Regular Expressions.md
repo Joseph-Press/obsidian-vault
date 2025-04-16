@@ -65,5 +65,8 @@ reg langs whenver  r1 r1, r2 regular
 thm the lang of every NFA can be rep'd by a RF 
 
 Pf given NFA 
+1)
 ![[Drawing 2025-04-16 15.44.16.excalidraw]]
+2)
+![[Drawing 2025-04-16 15.46.19.excalidraw]]
 
