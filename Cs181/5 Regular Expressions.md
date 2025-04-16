@@ -51,10 +51,12 @@ thm the lanaugage of every RE is regular
 
 Pf 
 
+reg langs
 - ∅ 
 - {ε}
 - {J} - not sure it's a j 
-- 
+
+reg langs whenver  r1 r1, r2 regular 
 - (R1, ∪ R2)
 - (R1∘R2)
 - `(R^*)`
