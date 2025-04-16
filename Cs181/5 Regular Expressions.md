@@ -70,3 +70,6 @@ Pf given NFA
 2)
 ![[Drawing 2025-04-16 15.46.19.excalidraw]]
 
+3) ![[Drawing 2025-04-16 15.51.24.excalidraw]]
+into ![[Drawing 2025-04-16 15.53.24.excalidraw]]
+
