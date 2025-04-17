@@ -73,3 +73,4 @@ Pf given NFA
 3) ![[Drawing 2025-04-16 15.51.24.excalidraw]]
 into ![[Drawing 2025-04-16 15.53.24.excalidraw]]
 
+![[IMG_9983.jpg]]
