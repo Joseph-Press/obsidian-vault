@@ -4,3 +4,15 @@
 theorm L = {0^n 1^n ; 1>= 1}
 is nonreg
 
+![[IMG_0027.jpg]]
+
+
+## 6.2 pumping lemma 
+
+lem 
+let L be a reg leang. then there is p ∈N s.t every w ∈L of Length >= p can be written as w = xyz
+where 
+- x,y,z are strings 
+- y =/= ε
+- |xy|<= p 
+- xyz ∈ L for all i = 0, 1,2,...
