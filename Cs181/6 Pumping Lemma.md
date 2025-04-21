@@ -37,3 +37,12 @@ then
 q is repeated 
 
 must visit some state at least twice while reading first p symbols 
+![[IMG_0029 2.jpg]]
+
+![[IMG_0030 2.jpg]]
+
+![[IMG_0031 2.jpg]]
+
+## 6.4 examples 
+
+ex L = (0^n 1 ^n: n >= 0} 
