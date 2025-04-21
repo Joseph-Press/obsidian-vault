@@ -23,3 +23,17 @@ pf
 
 ![[Drawing 2025-04-21 15.24.22.excalidraw]]
 
+x = part of w before first loop 
+
+y= `~~~~~~~~~inside~~~~~~~~`
+z= `~~~~~~~~~after~~~~~~~~`
+
+then 
+- w = xyz 
+- y =/= ε
+- |xy|<= p 
+- xyz ∈ L for all i = 0, 1,2,...
+
+q is repeated 
+
+must visit some state at least twice while reading first p symbols 
