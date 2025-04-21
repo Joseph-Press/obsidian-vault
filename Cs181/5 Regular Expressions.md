@@ -92,3 +92,4 @@ partiion into blocks
 
 ![[Drawing 2025-04-21 14.36.50.excalidraw]]
 
+![[Drawing 2025-04-21 14.38.38.excalidraw]]
