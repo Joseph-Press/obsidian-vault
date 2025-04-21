@@ -82,3 +82,5 @@ into ![[Drawing 2025-04-16 15.53.24.excalidraw]]
 
 ![[Drawing 2025-04-21 14.13.53.excalidraw]]
 
+## 5.3 NFA to RF conversion example 
+
