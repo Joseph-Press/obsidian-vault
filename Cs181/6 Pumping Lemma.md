@@ -16,3 +16,8 @@ where
 - y =/= ε
 - |xy|<= p 
 - xyz ∈ L for all i = 0, 1,2,...
+
+
+
+pf 
+
