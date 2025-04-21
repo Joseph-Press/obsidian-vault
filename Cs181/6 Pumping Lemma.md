@@ -21,3 +21,5 @@ where
 
 pf 
 
+![[Drawing 2025-04-21 15.24.22.excalidraw]]
+
