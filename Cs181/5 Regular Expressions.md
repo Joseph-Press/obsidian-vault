@@ -82,5 +82,11 @@ into ![[Drawing 2025-04-16 15.53.24.excalidraw]]
 
 ![[Drawing 2025-04-21 14.13.53.excalidraw]]
 
-## 5.3 NFA to RF conversion example 
+## 5.3 NFA to RE conversion example 
+
+![[IMG_0026.jpg]]
+
+## 5.4 RE to NFA conversion example 
+
+partiion into blocks 
 
