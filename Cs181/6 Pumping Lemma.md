@@ -46,3 +46,4 @@ must visit some state at least twice while reading first p symbols
 ## 6.4 examples 
 
 ex L = (0^n 1 ^n: n >= 0} 
+
