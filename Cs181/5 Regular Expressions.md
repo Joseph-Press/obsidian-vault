@@ -74,3 +74,11 @@ Pf given NFA
 into ![[Drawing 2025-04-16 15.53.24.excalidraw]]
 
 ![[IMG_9983.jpg]]
+
+
+## 5.2 recap 
+
+### kleen's algo
+
+![[Drawing 2025-04-21 14.13.53.excalidraw]]
+
