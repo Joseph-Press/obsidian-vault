@@ -47,3 +47,12 @@ must visit some state at least twice while reading first p symbols
 
 ex L = (0^n 1 ^n: n >= 0} 
 
+∀p (for all p)
+∃w  ∈ L, |w| >= p 
+
+∀ x,y,z: 
+- w = xyz 
+- y =/= ε     
+- |xy|<= p 
+L is non regular 
+
