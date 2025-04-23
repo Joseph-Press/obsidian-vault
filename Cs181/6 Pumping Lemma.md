@@ -56,3 +56,4 @@ ex L = (0^n 1 ^n: n >= 0}
 - |xy|<= p 
 L is non regular 
 
+
