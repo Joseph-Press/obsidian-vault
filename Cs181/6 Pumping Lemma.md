@@ -57,3 +57,7 @@ ex L = (0^n 1 ^n: n >= 0}
 L is non regular 
 
 
+## 6.4 cont 
+![[EC5358DC-652D-45A4-B21D-30DCEA8C2CA0_1_201_a.jpeg]]
+
+
