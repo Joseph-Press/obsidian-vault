@@ -7,5 +7,4 @@ H |  TH  HT TT HH
 2/4=1/2
 
 3) suppose you cant observe the experiment directly but are told that there were two heads in total. what is your updated assessment of the probblity that the first flip was heads?
-
 2/3 
