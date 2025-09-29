@@ -17,4 +17,5 @@ so S = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}
 S is the sample space (
 )
 
-s ∈ S are outcomes , and A 
+s ∈ S are outcomes , while we call A ⊂ S events
+![[Pasted image 20250929144315.png]]
