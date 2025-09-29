@@ -19,3 +19,10 @@ S is the sample space (
 
 s ∈ S are outcomes , while we call A ⊂ S events
 ![[Pasted image 20250929144315.png]]
+We consider a funciton P : {A ⊂S } -> [0,1] which assisgns to each event A the probablitiy P(A) that it occurs
+
+P satisfies some natural properities like P(A⊔B) = P(A) + P(B) just as we assumed in our calculation to answer q 1 
+P(A)=3/8
+P(THH ⊔HTH⊔HHT)=
+P(THH)+P(HTH)+P(HHT)=
+1/8+1/8+1/8 = 3/8
