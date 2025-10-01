@@ -34,3 +34,9 @@ which is the probability that the outcome s ∈ A ⊂ S, such that:
 			if we have a very long/inf list of this or this or this happening, its the sum of prob of a, prob of b, ... as long as Ai ∩ Aj doesnt intersect
 			
 
+A set might be S, and objects might be s or s1, s2 etc
+
+s ∈ S means the object is is in the collectio S 
+
+S = {s ∈ S} or S = {s1,s2,s3...,sn} 
+- note that a set can have inf many elements or none
