@@ -59,3 +59,11 @@ so if we have S1 = {H,T}, S2= {H,T}
 S1 xS2 = {(s1,s2) | s1∈{H,T} s2∈{H,T} } = {(T,T) (TH), (HT) ,(HH)}
 
 
+### Opersations on sets 
+
+A subset A ⊆ S is simply a collection of elements of S, but not
+necessarily all. E.g. A = {s ∈ S | s has property P} ⊂ S.
+
+It could be all, it could be none, and everything in between
+
+
