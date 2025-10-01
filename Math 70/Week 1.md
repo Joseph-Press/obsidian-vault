@@ -96,4 +96,3 @@ additional rules
 - (A ∩ B)^c = A^c ∪ B
 
 
-
