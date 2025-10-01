@@ -94,5 +94,6 @@ additional rules
 - (A ∪ B)^c = A^c ∩ B^c
 
 - (A ∩ B)^c = A^c ∪ B
+![[Drawing 2025-10-01 14.43.57.excalidraw]]
 
 
