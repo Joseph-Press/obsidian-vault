@@ -50,3 +50,12 @@ representing the two outcomes, H for heads and T for tails.
 
 Example: The set of integers Z = {..., −2, −1, 0, 1, 2, ...}, Q, R.
 
+Given two sets S1, S2, we can form a new set, called the product of
+S1 and S2, denoted S1 × S2 = {(s1,s2) |s1 ∈ S1 and s2 ∈ S2 }. If
+#S1 = n1 and #S2 = n2 then #(S1 × S2) = n1n2.
+
+so if we have S1 = {H,T}, S2= {H,T}
+
+S1 xS2 = {(s1,s2) | s1∈{H,T} s2∈{H,T} } = {(T,T) (TH), (HT) ,(HH)}
+
+
