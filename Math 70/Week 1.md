@@ -84,3 +84,16 @@ Basic properties: A ∪ B = B ∪ A and A ∩ B = B ∩ A
 (A ∪ B) ∪ C = A ∪ (B ∪ C) and (A ∩ B) ∩ C = A ∩ (B ∩ C)
 
 clearly symmetric
+
+
+additional rules 
+- A∩(B ∪C) = (A∩B)∪(A∩C) 
+
+- A∪(B ∩C) = (A∪B)∩(A∪C)
+
+- (A ∪ B)^c = A^c ∩ B^c
+
+- (A ∩ B)^c = A^c ∪ B
+
+
+
