@@ -40,3 +40,13 @@ s ∈ S means the object is is in the collectio S
 
 S = {s ∈ S} or S = {s1,s2,s3...,sn} 
 - note that a set can have inf many elements or none
+
+The number of elements of cardinality of a set S is denoted #S
+
+read as the number of S's
+
+Example: The set of outcomes of a single coin toss is S = {H,T}
+representing the two outcomes, H for heads and T for tails.
+
+Example: The set of integers Z = {..., −2, −1, 0, 1, 2, ...}, Q, R.
+
