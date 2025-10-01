@@ -16,5 +16,21 @@ P satisfies some natural properities like P(A⊔B) = P(A) + P(B) just as we assu
 
 ## lecture 2 
 formal axioms of prob theory
-1. a set s of possible outcomes called the `sample space`
-	
+1. A set S of possible outcomes, called the sample space.
+	- An element s ∈ S is called an outcome of the experiment.
+	- A subset A ⊂ S of the possible outcomes, is called an event.
+		The set of possible events A ⊂ S is denoted P(S) = {A ⊆ S}.
+The event A occurs when it contains the random outcome s ∈ S.
+
+
+2. A function P : P(S) → [0, 1], written P(A) = P(s ∈ A),
+assigning to each A ⊂ S, called an event, a number 0 ≤ P(A) ≤ 1,
+which is the probability that the outcome s ∈ A ⊂ S, such that:
+	1) P(S) = 1
+			
+	2) P(A ∪ B) = P(A) + P(B) if A ∩ B = ∅,
+		one happened or the other happened, the probablitiy of a or b happening is the probablity of a + prob of b happening as long as there are no element in both a & b. (main rule we need)
+	3) P(A1 ∪A2 ∪...) = P(A1) + P(A2) + ... if Ai ∩Aj = ∅ for i ̸= j.
+			if we have a very long/inf list of this or this or this happening, its the sum of prob of a, prob of b, ... as long as Ai ∩ Aj doesnt intersect
+			
+
