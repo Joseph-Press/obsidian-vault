@@ -32,7 +32,7 @@ which is the probability that the outcome s ∈ A ⊂ S, such that:
 		one happened or the other happened, the probablitiy of a or b happening is the probablity of a + prob of b happening as long as there are no element in both a & b. (main rule we need)
 	3) P(A1 ∪A2 ∪...) = P(A1) + P(A2) + ... if Ai ∩Aj = ∅ for i ̸= j.
 			if we have a very long/inf list of this or this or this happening, its the sum of prob of a, prob of b, ... as long as Ai ∩ Aj doesnt intersect
-			
+		
 
 A set might be S, and objects might be s or s1, s2 etc
 
