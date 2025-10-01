@@ -70,4 +70,17 @@ E.g.: Z = {x ∈ R | x is a positive or negative whole number }
 
 For A, B ⊂ S, we say A ⊂ B if every element of A is also an
 element of B, or if s ∈ A implies s ∈ B, or simply if ‘A implies B’.
-d
+
+We denote the union by A ∪ B = {s ∈ S | s ∈ A or s ∈ B}.
+
+We denote the intersection by A ∩ B = {s ∈ S | s ∈ A and s ∈ B}.
+
+We denote the complement by A
+
+c = {s ∈ S | s ∈/ A}.
+
+Basic properties: A ∪ B = B ∪ A and A ∩ B = B ∩ A
+
+(A ∪ B) ∪ C = A ∪ (B ∪ C) and (A ∩ B) ∩ C = A ∩ (B ∩ C)
+
+clearly symmetric
