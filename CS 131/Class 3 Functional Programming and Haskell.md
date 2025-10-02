@@ -18,3 +18,32 @@ Haskell is  one of the few pure functional languages, so it's a good language to
 4) all functions are pure 
 - Calling f(x) with a given x always returns the same value y.
 - Functions may not use or modify external mutable state/variables.
+
+### Pure Function
+(AKA a Referentially Transparent func)
+
+A function that has two properties:
+1) Given a specific input x, the function always returns the same output y.
+2) It computes its output exclusively based on its input parameters, without relying on or modifying external data that might change from call to call.
+
+pure: 
+```
+int f(int p) {
+
+ int q = 5*p*p;
+
+ return q;
+
+}
+```
+
+impure:
+```
+int z; 
+
+int f(int p) {
+
+  return p*z++;
+
+}
+```
