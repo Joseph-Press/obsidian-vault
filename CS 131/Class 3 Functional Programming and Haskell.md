@@ -47,3 +47,8 @@ int f(int p) {
 
 }
 ```
+
+why?
+- They make code easier to reason about, debug and test!
+- They enable parallelism and compiler optimizations!
+- They help us formally analyze and prove things about programs!
