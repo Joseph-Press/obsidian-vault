@@ -14,4 +14,6 @@ object x is contrained in S1 if x is an object of S1
 
 x ∈ S1 
 
-
+Prob space is (S, P)
+S is a set called sample space and P is a real vauled set funciton S called the prob function 
+P assignes E subset S 
