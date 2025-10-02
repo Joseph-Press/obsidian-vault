@@ -52,3 +52,28 @@ why?
 - They make code easier to reason about, debug and test!
 - They enable parallelism and compiler optimizations!
 - They help us formally analyze and prove things about programs!
+
+## imperative vs funcitonal
+imperative: 
+- Algorithmic – series of statements and variable changes.
+
+- Changes in variable state are required.
+
+- Sequences of statements, loops and function calls.
+
+- Multi-threading is tricky and prone to bugs
+
+
+- The order code executes is important.
+
+functional:
+- Transformation through function calls.
+
+- All "variables" are constants - no changes are allowed!
+
+- Function calls and recursion – no loops, no statements! 
+	- Another way of saying this is that FP computes with functions rather than recipes of sequential steps.
+
+- Multi-threading is easy!
+
+- The order of execution is of low importance! 
