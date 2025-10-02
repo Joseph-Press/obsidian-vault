@@ -80,3 +80,7 @@ functional:
 
 slide 8 need to review 
 'lazy evaluation'
+
+## Why haskell?
+
+Haskell is truly functional, so it teaches you proper functional programming style.
