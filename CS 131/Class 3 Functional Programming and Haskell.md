@@ -77,3 +77,6 @@ functional:
 - Multi-threading is easy!
 
 - The order of execution is of low importance! 
+
+slide 8 need to review 
+'lazy evaluation'
