@@ -84,3 +84,5 @@ slide 8 need to review
 ## Why haskell?
 
 Haskell is truly functional, so it teaches you proper functional programming style.
+
+It infers 
