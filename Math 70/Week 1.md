@@ -97,3 +97,52 @@ additional rules
 ![[Drawing 2025-10-01 14.43.57.excalidraw]]
 
 
+### **Lecture 3: Elementary Properties and New Formulas**
+
+#### 1. **Why disjointness matters**
+
+If A and B overlap, then **P(A ∪ B) ≠ P(A) + P(B)**  
+You must subtract the overlap to avoid double counting.
+
+Example with 3 coin flips:
+
+- A = {HHT, HTH, THH} (2 heads)
+    
+- B = {HHH, HHT, HTH, HTT} (first flip heads)
+    
+- Overlap = {HHT, HTH}, so  
+    **P(A ∪ B) = P(A) + P(B) − P(A ∩ B)**
+    
+
+#### 2. **New propositions derived from the axioms**
+
+- **P(Aᶜ) = 1 − P(A)**  
+    (The probability of “not A” equals one minus the probability of A.)
+    
+- **P(∅) = 0**
+    
+- **If A ⊂ B, then P(A) ≤ P(B)**
+    
+
+#### 3. **General formula for two or three events**
+
+- For any A, B:  
+    **P(A ∪ B) = P(A) + P(B) − P(A ∩ B)**
+    
+- For three events A, B, C:  
+    **P(A ∪ B ∪ C) = P(A) + P(B) + P(C) − P(A ∩ B) − P(B ∩ C) − P(A ∩ C) + P(A ∩ B ∩ C)**  
+    (This is the inclusion-exclusion principle.)
+    
+
+---
+
+### **How to Think About It**
+
+When working with probability:
+
+1. **Define your sample space (S).**
+2. **List or describe the event (A).**
+3. **Count or measure how many outcomes are in A.**
+4. **Use P(A) = (#A)/(#S)** for equally likely outcomes.
+5. **Check disjointness before adding probabilities.**
+6. **Use complements or intersections when simplifying.**
