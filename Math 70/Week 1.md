@@ -159,10 +159,10 @@ the ground rules for how probability must behave:
 3. **You can keep adding like that forever**, as long as the events don’t overlap.  
     That’s what the third rule says — it’s just the same idea for longer lists.
 
-|Concept|What it means (simple)|
-|---|---|
-|**S**|All possible outcomes (like all ways coins could land)|
-|**s ∈ S**|A single specific outcome|
-|**A ⊂ S**|An event — a group of outcomes you care about|
-|**P(A)**|How likely that event is|
-|**Axioms**|Rules that probabilities must follow so they make sense|
+| Concept    | What it means (simple)                                  |
+| ---------- | ------------------------------------------------------- |
+| **S**      | All possible outcomes (like all ways coins could land)  |
+| **s ∈ S**  | A single specific outcome                               |
+| **A ⊂ S**  | An event — a group of outcomes you care about           |
+| **P(A)**   | How likely that event is                                |
+| **Axioms** | Rules that probabilities must follow so they make sense |

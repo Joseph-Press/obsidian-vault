@@ -1,10 +1,16 @@
-### TL;DR Summary
+Example: There’s a big bag of treats with orange and black
+wrappers, some are chocolate inside and some are licorice:
 
-|Concept|What it means (simple)|
-|---|---|
-|**S**|All possible outcomes (like all ways coins could land)|
-|**s ∈ S**|A single specific outcome|
-|**A ⊂ S**|An event — a group of outcomes you care about|
-|**P(A)**|How likely that event is|
-|**Axioms**|Rules that probabilities must follow so they make sense|
+|           | Orange | Black | Total |
+| --------- | ------ | ----- | ----- |
+| Chocolate | 8      | 2     | 10    |
+| Liquorice | 5      | 15    | 20    |
+| Total     | 13     | 17    | 30    |
 
+Suppose you sample a random treat (or trick!) from the bag:
+1. What is the probability that you get a chocolate?
+	- 1/3 
+2. What is prob of chocolate if the candy wrapper is orange?
+	- 8/13
+3. Can you write this in terms of prob. of chocolate and orange?
+	- 8/30 = 4/15
