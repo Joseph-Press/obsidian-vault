@@ -14,3 +14,5 @@ Suppose you sample a random treat (or trick!) from the bag:
 	- P(C|O) (prob of choco given wrapper is orange) = 8/13
 3. Can you write this in terms of prob. of chocolate and orange?
 	- P(C∩O)=8/30 = 4/15
+
+
