@@ -71,14 +71,14 @@ ___
 Consider a standard deck of 52 cards, which has 13 of each suit.
 Suppose we draw one, two, or three cards from the deck:
 1. What is the probability of drawing a heart?
-	- 4/52
+	- 13/52 = 1/4
 2. What is the prob. of drawing a heart and then a diamond?
-	- `4/52*4/51`
+	- `13/52*13/51`
 3. What is the prob. of drawing heart then diamond then club?
-	- `4/52*4/51`
+	- `13/52*13/51*13/50`
 4. What is the prob. of drawing three hearts in a row?
-	- `4/52*4/51*4/50`
+	- `13/52*12/51*11/50`
 5. What is the prob. of drawing three aces in a row?
-	-  `4/52*4/51*4/50`
+	-  `4/52*3/51*2/50`
 6. What is the prob. of drawing one ace, one king, and one queen, in any order (still assuming you draw three cards)?
 	- `4/52*4/51*4/50`
