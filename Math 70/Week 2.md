@@ -9,8 +9,8 @@ wrappers, some are chocolate inside and some are licorice:
 
 Suppose you sample a random treat (or trick!) from the bag:
 1. What is the probability that you get a chocolate?
-	- 1/3 
+	- P(C) = 1/3 
 2. What is prob of chocolate if the candy wrapper is orange?
-	- 8/13
+	- P(C|O) (prob of choco given wrapper is orange) = 8/13
 3. Can you write this in terms of prob. of chocolate and orange?
-	- 8/30 = 4/15
+	- P(C∩O)=8/30 = 4/15
