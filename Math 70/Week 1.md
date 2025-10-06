@@ -146,3 +146,23 @@ When working with probability:
 4. **Use P(A) = (#A)/(#S)** for equally likely outcomes.
 5. **Check disjointness before adding probabilities.**
 6. **Use complements or intersections when simplifying.**
+### TL;DR Summary
+the ground rules for how probability must behave:
+
+1. **P(S) = 1**  
+    Something in S _must_ happen — one of the possible outcomes will occur.
+    
+2. **P(A ∪ B) = P(A) + P(B)** (if A and B don’t overlap)  
+    If two events can’t both happen (like “exactly two heads” vs “exactly three heads”),  
+    the chance of “A or B” is just the sum of their chances.
+    
+3. **You can keep adding like that forever**, as long as the events don’t overlap.  
+    That’s what the third rule says — it’s just the same idea for longer lists.
+
+|Concept|What it means (simple)|
+|---|---|
+|**S**|All possible outcomes (like all ways coins could land)|
+|**s ∈ S**|A single specific outcome|
+|**A ⊂ S**|An event — a group of outcomes you care about|
+|**P(A)**|How likely that event is|
+|**Axioms**|Rules that probabilities must follow so they make sense|
